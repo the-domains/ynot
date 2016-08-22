@@ -12,5 +12,9 @@ color:
     - '#F4F482'
 layout_spectrum: 0.9631258884910494
 name: Ynot
+navigation:
+  - name: official site
+    url: 'HTTP://WWW.YNOT.ES'
+    type: external
 title: INTERIOR DESIGN
 description: by JAIME DE PABLO-ROMERO
